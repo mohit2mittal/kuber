@@ -1,9 +1,0 @@
-http://www.c-sharpcorner.com/uploadfile/mahesh/tooltip-in-C-Sharp/
-
-
-
-
-http://www.codeproject.com/Questions/481642/c-plusButtons-aplusShowplusMessagepluswhenplusm
-
-
-http://stackoverflow.com/questions/2554241/how-to-change-button-background-image-on-mouseover
