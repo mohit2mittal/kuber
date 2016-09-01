@@ -1,0 +1,12 @@
+<DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding date}" ClipboardContentBinding="{x:Null}" Header="Date"/>
+                <DataGridTextColumn Binding="{Binding opening_Price}" ClipboardContentBinding="{x:Null}" Header="Opening Price"/>
+                <DataGridTextColumn Binding="{Binding highest_Price}" ClipboardContentBinding="{x:Null}" Header="Highest Price"/>
+                <DataGridTextColumn Binding="{Binding lowest_Price}" ClipboardContentBinding="{x:Null}" Header="Lowest Price"/>
+                <DataGridTextColumn Binding="{Binding closing_Price}" ClipboardContentBinding="{x:Null}" Header="Closing Price"/>
+                <DataGridTextColumn Binding="{Binding volume}" ClipboardContentBinding="{x:Null}" Header="Volume"/>
+                <DataGridTextColumn Binding="{Binding country_Code}" ClipboardContentBinding="{x:Null}" Header="Country Code"/>
+                <DataGridTextColumn Binding="{Binding exchange_Code}" ClipboardContentBinding="{x:Null}" Header="Exchange Code"/>
+                <DataGridTextColumn Binding="{Binding ask_Price}" ClipboardContentBinding="{x:Null}" Header="Ask Price"/>
+                <DataGridTextColumn Binding="{Binding bid_Price}" ClipboardContentBinding="{x:Null}" Header="Bid Price"/>
+</DataGrid.Columns>
